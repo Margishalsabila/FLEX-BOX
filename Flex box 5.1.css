@@ -1,0 +1,22 @@
+*{
+    margin: 10;
+}
+.container{
+    background: #ecf0f1;
+    display: flex;
+}
+.box{
+    padding:30px;
+    color: white;
+    font-family: Poppins, "Helvetica Neue", arial, sans-serif;
+    font-size: 1.5em;
+    text-shadow: 0 1px 1px rgba(0,0,0,.2);
+    text-align: center;
+    width: 200px;
+    height: 500px;
+    margin: 50px;
+}
+.box1{ background-color:#489dec; }
+.box2{ background-color:#b3639f; }
+.box3{ background-color:#34db7a; }
+.box4{ background-color:#e4d501; }
